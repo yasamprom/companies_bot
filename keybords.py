@@ -2,6 +2,8 @@ from aiogram.types import ReplyKeyboardRemove, \
     ReplyKeyboardMarkup, KeyboardButton, \
     InlineKeyboardMarkup, InlineKeyboardButton
 
+# Клавиатуры и текст ответов
+
 
 class DataClass:
     def __init__(self):
